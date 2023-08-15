@@ -1,0 +1,4 @@
+pytest -v -s --capture=sys --html=C:\Users\USER\Desktop\workspace\project1\Reports\login_report.html test_login.py
+pytest -v -s --capture=sys --html=C:\Users\USER\Desktop\workspace\project1\Reports\pim_delete_report.html test_delete.py
+pytest -v -s --capture=sys --html=C:\Users\USER\Desktop\workspace\project1\Reports\pim_add_report.html test_addemp.py
+pytest -v -s --capture=sys --html=C:\Users\USER\Desktop\workspace\project1\Reports\pim_edit_report.html test_pimedit.py
